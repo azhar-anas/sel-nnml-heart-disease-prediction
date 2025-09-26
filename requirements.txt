@@ -12,3 +12,5 @@ ucimlrepo==0.0.7
 arch==7.2.0
 pyswarm==0.6
 pygad==3.5.0
+kagglehub==0.38
+scipy==1.13.1
