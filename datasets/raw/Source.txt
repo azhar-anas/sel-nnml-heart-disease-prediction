@@ -1,0 +1,3 @@
+1st dataset Kaggle: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
+2nd dataset UCI ML: https://archive.ics.uci.edu/dataset/45/heart+disease
