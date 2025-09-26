@@ -1,4 +1,4 @@
-<h1 align="center">Stacking Ensemble Learning with Neural Network Meta Learner (SEL-NNML) for Heart Disease Analysis</h1>
+<h1 align="center">Stacking Ensemble Learning with Neural Network Meta Learner (SEL-NNML) for Heart Disease Prediction</h1>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -32,3 +32,4 @@ The performance of the base models and meta-learner is optimized and compared ac
 * **Bayesian** Optimization
 * **GS** (Grid Search)
 * **RS** (Random Search)
+
