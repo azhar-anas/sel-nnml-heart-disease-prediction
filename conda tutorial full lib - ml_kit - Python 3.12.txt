@@ -4,9 +4,9 @@ conda create -n ml_kit python=3.12
 
 conda activate ml_kit
 
-conda install 'notebook=7.4.5' 'numpy=1.26.4' 'pandas=2.3.2' openpyxl 'scikit-learn=1.7.2' 'imbalanced-learn=0.14.0' 'matplotlib=3.9.4' seaborn 'plotly=6.3.0' lxml 'statsmodels=0.14.5' 'pmdarima=2.0.4' ipywidgets shapely 'optuna==4.5.0' 'streamlit==1.49.1' 'joblib==1.5.2' 'numba=0.61.0' 'flask=3.1.1' 'fastapi=0.116.1' uvicorn scipy pillow imutils opencv 'nltk=3.9.1' 'wordcloud=1.9.4' 'ydata-profiling=4.16.0' networkx nbconvert 'SQLAlchemy=2.0.42' 'supabase==2.15.3' 'scikit-optimize=0.10.2' 'google-cloud-automl=2.16.4' 'google-generativeai=0.8.5'
+conda install 'notebook=7.4.5' 'numpy=1.26.4' 'pandas=2.3.2' openpyxl 'scikit-learn=1.7.2' 'imbalanced-learn=0.14.0' 'matplotlib=3.9.4' seaborn 'plotly=6.3.0' lxml 'statsmodels=0.14.5' 'pmdarima=2.0.4' ipywidgets shapely 'optuna==4.5.0' 'cmaes=0.12.0' 'streamlit==1.49.1' 'joblib==1.5.2' 'numba=0.61.0' 'flask=3.1.1' 'fastapi=0.116.1' uvicorn 'scipy=1.13.1' pillow imutils OpenCV 'nltk=3.9.1' 'wordcloud=1.9.4' 'ydata-profiling=4.16.0' networkx nbconvert 'SQLAlchemy=2.0.42' 'supabase==2.15.3' 'scikit-optimize=0.10.2' 'google-cloud-automl=2.16.4' 'google-generativeai=0.8.5' 'kagglehub=0.3.8'
 
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu129
 
 python -c "import torch; print(torch.cuda.is_available()); print(torch.cuda.get_device_name(0));"
 
