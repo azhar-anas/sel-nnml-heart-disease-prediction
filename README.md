@@ -28,8 +28,8 @@ This research utilizes two publicly available datasets:
 ### Hyperparameter Tuning Techniques Evaluated
 The performance of the base models and meta-learner is optimized and compared across the following state-of-the-art methods:
 * **TPE** (Tree-structured Parzen Estimator)
-* **GA** (Genetic Algorithm)
-* **Bayesian** Optimization
-* **GS** (Grid Search)
-* **RS** (Random Search)
+* **CMA-ES** (Covariance Matrix Adaptation Evolution Strategy)
+* **GP** (Gaussian Process)
+* **QMC-RS** (Quasi-Monte Carlo Random Search)
+
 
