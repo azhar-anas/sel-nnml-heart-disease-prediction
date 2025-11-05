@@ -1,0 +1,13 @@
+Model,Both Correct,"Control Right, Other Wrong","Control Wrong, Other Right",Both Wrong,Chi-Square,p-value,p-value (Bonferroni),Significant (α=0.05)
+Decision Tree (Default),125,14,4,7,4.5,0.03389485352468924,0.40673824229627087,False
+K-Nearest Neighbors (Default),129,10,2,9,4.083333333333333,0.043308142810792094,0.5196977137295051,False
+Random Forest (Default),131,8,1,10,4.0,0.04550026389635853,0.5460031667563023,False
+AdaBoost (Default),130,9,2,9,3.272727272727273,0.07044042927208805,0.8452851512650565,False
+Logistic Regression (Default),132,7,1,10,3.125,0.07709987174354205,0.9251984609225046,False
+Support Vector Machine (Default),136,3,0,11,1.3333333333333333,0.24821307898992362,1.0,False
+Gradient Boosting (Default),131,8,2,9,2.5,0.11384629800665769,1.0,False
+Stacking + Linear Regression,134,5,1,10,1.5,0.22067136191984693,1.0,False
+Stacking + Default MLP,134,5,1,10,1.5,0.22067136191984693,1.0,False
+SEL-NNML (GP),138,1,0,11,0.0,1.0,1.0,False
+SEL-NNML (CMA-ES),136,3,3,8,0.16666666666666666,0.6830913983096086,1.0,False
+SEL-NNML (QMC),133,6,5,6,0.0,1.0,1.0,False

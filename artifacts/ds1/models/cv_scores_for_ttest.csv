@@ -1,0 +1,131 @@
+Model,Fold,Accuracy
+Logistic Regression (Default),1,0.8
+Logistic Regression (Default),2,0.8333333333333334
+Logistic Regression (Default),3,0.8333333333333334
+Logistic Regression (Default),4,0.8166666666666667
+Logistic Regression (Default),5,0.9
+Logistic Regression (Default),6,0.8
+Logistic Regression (Default),7,0.847457627118644
+Logistic Regression (Default),8,0.9322033898305084
+Logistic Regression (Default),9,0.8305084745762712
+Logistic Regression (Default),10,0.8305084745762712
+Decision Tree (Default),1,0.7666666666666667
+Decision Tree (Default),2,0.6666666666666666
+Decision Tree (Default),3,0.8333333333333334
+Decision Tree (Default),4,0.8166666666666667
+Decision Tree (Default),5,0.8
+Decision Tree (Default),6,0.6666666666666666
+Decision Tree (Default),7,0.7966101694915254
+Decision Tree (Default),8,0.7627118644067796
+Decision Tree (Default),9,0.7796610169491526
+Decision Tree (Default),10,0.7966101694915254
+Random Forest (Default),1,0.7833333333333333
+Random Forest (Default),2,0.8833333333333333
+Random Forest (Default),3,0.8833333333333333
+Random Forest (Default),4,0.8833333333333333
+Random Forest (Default),5,0.85
+Random Forest (Default),6,0.7666666666666667
+Random Forest (Default),7,0.847457627118644
+Random Forest (Default),8,0.9152542372881356
+Random Forest (Default),9,0.8983050847457628
+Random Forest (Default),10,0.847457627118644
+K-Nearest Neighbors (Default),1,0.7833333333333333
+K-Nearest Neighbors (Default),2,0.8
+K-Nearest Neighbors (Default),3,0.85
+K-Nearest Neighbors (Default),4,0.8166666666666667
+K-Nearest Neighbors (Default),5,0.8166666666666667
+K-Nearest Neighbors (Default),6,0.75
+K-Nearest Neighbors (Default),7,0.864406779661017
+K-Nearest Neighbors (Default),8,0.9152542372881356
+K-Nearest Neighbors (Default),9,0.8983050847457628
+K-Nearest Neighbors (Default),10,0.8305084745762712
+Support Vector Machine (Default),1,0.8
+Support Vector Machine (Default),2,0.8333333333333334
+Support Vector Machine (Default),3,0.8333333333333334
+Support Vector Machine (Default),4,0.8166666666666667
+Support Vector Machine (Default),5,0.9
+Support Vector Machine (Default),6,0.8333333333333334
+Support Vector Machine (Default),7,0.847457627118644
+Support Vector Machine (Default),8,0.9322033898305084
+Support Vector Machine (Default),9,0.864406779661017
+Support Vector Machine (Default),10,0.8305084745762712
+AdaBoost (Default),1,0.8166666666666667
+AdaBoost (Default),2,0.8333333333333334
+AdaBoost (Default),3,0.8333333333333334
+AdaBoost (Default),4,0.8333333333333334
+AdaBoost (Default),5,0.8833333333333333
+AdaBoost (Default),6,0.7166666666666667
+AdaBoost (Default),7,0.847457627118644
+AdaBoost (Default),8,0.9152542372881356
+AdaBoost (Default),9,0.8305084745762712
+AdaBoost (Default),10,0.8305084745762712
+Gradient Boosting (Default),1,0.7833333333333333
+Gradient Boosting (Default),2,0.8666666666666667
+Gradient Boosting (Default),3,0.9166666666666666
+Gradient Boosting (Default),4,0.8833333333333333
+Gradient Boosting (Default),5,0.8833333333333333
+Gradient Boosting (Default),6,0.8
+Gradient Boosting (Default),7,0.8135593220338984
+Gradient Boosting (Default),8,0.8983050847457628
+Gradient Boosting (Default),9,0.8813559322033898
+Gradient Boosting (Default),10,0.8305084745762712
+Stacking + Linear Regression,1,0.7833333333333333
+Stacking + Linear Regression,2,0.9
+Stacking + Linear Regression,3,0.8833333333333333
+Stacking + Linear Regression,4,0.85
+Stacking + Linear Regression,5,0.8666666666666667
+Stacking + Linear Regression,6,0.8
+Stacking + Linear Regression,7,0.8305084745762712
+Stacking + Linear Regression,8,0.9152542372881356
+Stacking + Linear Regression,9,0.864406779661017
+Stacking + Linear Regression,10,0.8135593220338984
+Stacking + Default MLP,1,0.7666666666666667
+Stacking + Default MLP,2,0.8833333333333333
+Stacking + Default MLP,3,0.8833333333333333
+Stacking + Default MLP,4,0.85
+Stacking + Default MLP,5,0.9
+Stacking + Default MLP,6,0.8
+Stacking + Default MLP,7,0.847457627118644
+Stacking + Default MLP,8,0.9152542372881356
+Stacking + Default MLP,9,0.864406779661017
+Stacking + Default MLP,10,0.8135593220338984
+SEL-NNML (TPE),1,0.8
+SEL-NNML (TPE),2,0.8
+SEL-NNML (TPE),3,0.8833333333333333
+SEL-NNML (TPE),4,0.8166666666666667
+SEL-NNML (TPE),5,0.8666666666666667
+SEL-NNML (TPE),6,0.8166666666666667
+SEL-NNML (TPE),7,0.864406779661017
+SEL-NNML (TPE),8,0.9152542372881356
+SEL-NNML (TPE),9,0.864406779661017
+SEL-NNML (TPE),10,0.8305084745762712
+SEL-NNML (GP),1,0.7833333333333333
+SEL-NNML (GP),2,0.85
+SEL-NNML (GP),3,0.8833333333333333
+SEL-NNML (GP),4,0.8833333333333333
+SEL-NNML (GP),5,0.9166666666666666
+SEL-NNML (GP),6,0.8166666666666667
+SEL-NNML (GP),7,0.847457627118644
+SEL-NNML (GP),8,0.9152542372881356
+SEL-NNML (GP),9,0.864406779661017
+SEL-NNML (GP),10,0.8305084745762712
+SEL-NNML (CMA-ES),1,0.8166666666666667
+SEL-NNML (CMA-ES),2,0.8333333333333334
+SEL-NNML (CMA-ES),3,0.8333333333333334
+SEL-NNML (CMA-ES),4,0.8666666666666667
+SEL-NNML (CMA-ES),5,0.9
+SEL-NNML (CMA-ES),6,0.8333333333333334
+SEL-NNML (CMA-ES),7,0.8305084745762712
+SEL-NNML (CMA-ES),8,0.9152542372881356
+SEL-NNML (CMA-ES),9,0.8983050847457628
+SEL-NNML (CMA-ES),10,0.864406779661017
+SEL-NNML (QMC),1,0.8
+SEL-NNML (QMC),2,0.7833333333333333
+SEL-NNML (QMC),3,0.8166666666666667
+SEL-NNML (QMC),4,0.8
+SEL-NNML (QMC),5,0.8833333333333333
+SEL-NNML (QMC),6,0.7833333333333333
+SEL-NNML (QMC),7,0.8305084745762712
+SEL-NNML (QMC),8,0.9322033898305084
+SEL-NNML (QMC),9,0.864406779661017
+SEL-NNML (QMC),10,0.864406779661017
