@@ -1365,13 +1365,13 @@ SEL-NNML (TPE),12,True,True
 SEL-NNML (TPE),13,True,True
 SEL-NNML (TPE),14,True,True
 SEL-NNML (TPE),15,False,False
-SEL-NNML (TPE),16,False,False
+SEL-NNML (TPE),16,True,False
 SEL-NNML (TPE),17,True,True
 SEL-NNML (TPE),18,True,True
 SEL-NNML (TPE),19,True,True
 SEL-NNML (TPE),20,True,False
 SEL-NNML (TPE),21,True,True
-SEL-NNML (TPE),22,False,True
+SEL-NNML (TPE),22,True,True
 SEL-NNML (TPE),23,True,True
 SEL-NNML (TPE),24,False,False
 SEL-NNML (TPE),25,True,True
@@ -1468,7 +1468,7 @@ SEL-NNML (TPE),115,True,True
 SEL-NNML (TPE),116,True,True
 SEL-NNML (TPE),117,False,False
 SEL-NNML (TPE),118,True,True
-SEL-NNML (TPE),119,True,False
+SEL-NNML (TPE),119,False,False
 SEL-NNML (TPE),120,False,False
 SEL-NNML (TPE),121,True,True
 SEL-NNML (TPE),122,True,True
@@ -1479,7 +1479,7 @@ SEL-NNML (TPE),126,False,False
 SEL-NNML (TPE),127,False,False
 SEL-NNML (TPE),128,True,True
 SEL-NNML (TPE),129,False,False
-SEL-NNML (TPE),130,False,True
+SEL-NNML (TPE),130,True,True
 SEL-NNML (TPE),131,False,False
 SEL-NNML (TPE),132,False,False
 SEL-NNML (TPE),133,True,True
@@ -1671,7 +1671,7 @@ SEL-NNML (CMA-ES),18,True,True
 SEL-NNML (CMA-ES),19,True,True
 SEL-NNML (CMA-ES),20,True,False
 SEL-NNML (CMA-ES),21,True,True
-SEL-NNML (CMA-ES),22,True,True
+SEL-NNML (CMA-ES),22,False,True
 SEL-NNML (CMA-ES),23,True,True
 SEL-NNML (CMA-ES),24,False,False
 SEL-NNML (CMA-ES),25,True,True
@@ -1690,7 +1690,7 @@ SEL-NNML (CMA-ES),37,True,True
 SEL-NNML (CMA-ES),38,False,False
 SEL-NNML (CMA-ES),39,False,False
 SEL-NNML (CMA-ES),40,True,True
-SEL-NNML (CMA-ES),41,True,True
+SEL-NNML (CMA-ES),41,False,True
 SEL-NNML (CMA-ES),42,False,False
 SEL-NNML (CMA-ES),43,False,False
 SEL-NNML (CMA-ES),44,False,False
@@ -1708,7 +1708,7 @@ SEL-NNML (CMA-ES),55,False,False
 SEL-NNML (CMA-ES),56,False,False
 SEL-NNML (CMA-ES),57,True,False
 SEL-NNML (CMA-ES),58,True,True
-SEL-NNML (CMA-ES),59,False,True
+SEL-NNML (CMA-ES),59,True,True
 SEL-NNML (CMA-ES),60,True,True
 SEL-NNML (CMA-ES),61,True,True
 SEL-NNML (CMA-ES),62,True,True
@@ -1718,7 +1718,7 @@ SEL-NNML (CMA-ES),65,False,False
 SEL-NNML (CMA-ES),66,True,True
 SEL-NNML (CMA-ES),67,True,True
 SEL-NNML (CMA-ES),68,True,True
-SEL-NNML (CMA-ES),69,True,False
+SEL-NNML (CMA-ES),69,False,False
 SEL-NNML (CMA-ES),70,False,False
 SEL-NNML (CMA-ES),71,False,True
 SEL-NNML (CMA-ES),72,False,False

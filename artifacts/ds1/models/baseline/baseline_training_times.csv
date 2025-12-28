@@ -1,4 +1,4 @@
 Model Type,Training Time (seconds)
-Default Base Models,0.5226538181304932
-Stacking + Linear Regression,2.838611602783203
-Stacking + Default MLP,1.1489851474761963
+Default Base Models,0.4739844799041748
+Stacking + Linear Regression,6.358065605163574
+Stacking + Default MLP,2.718488931655884
