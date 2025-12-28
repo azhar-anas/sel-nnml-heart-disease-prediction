@@ -1,0 +1,11 @@
+conda config --add channels conda-forge
+
+conda create -n sel_nnml python=3.12
+
+conda activate sel_nnml
+
+conda install notebook=7.4.5 numpy=1.26.4 pandas=2.3.2 openpyxl=3.1.5 scikit-learn=1.7.2 matplotlib=3.9.4 seaborn=0.13.2 plotly=6.3.0 lxml=6.0.2 optuna==4.5.0 cmaes=0.12.0 joblib==1.5.2 numba=0.61.0 scipy=1.13.1 kagglehub=0.3.8 ipywidgets=8.1.8
+
+pip install intel-openmp==2021.4.0 mkl==2021.4.0 tbb==2021.11.0 ucimlrepo==0.0.7
+
+pip install torch==2.9.0 torchvision==0.24.0 torchaudio==2.9.0 --index-url https://download.pytorch.org/whl/cpu
