@@ -546,7 +546,7 @@ SEL-NNML (TPE),3,True,True
 SEL-NNML (TPE),4,False,False
 SEL-NNML (TPE),5,False,False
 SEL-NNML (TPE),6,False,False
-SEL-NNML (TPE),7,False,False
+SEL-NNML (TPE),7,True,False
 SEL-NNML (TPE),8,True,True
 SEL-NNML (TPE),9,False,False
 SEL-NNML (TPE),10,False,True
@@ -606,7 +606,7 @@ SEL-NNML (GP),3,True,True
 SEL-NNML (GP),4,False,False
 SEL-NNML (GP),5,False,False
 SEL-NNML (GP),6,False,False
-SEL-NNML (GP),7,False,False
+SEL-NNML (GP),7,True,False
 SEL-NNML (GP),8,True,True
 SEL-NNML (GP),9,False,False
 SEL-NNML (GP),10,False,True
@@ -669,10 +669,10 @@ SEL-NNML (CMA-ES),6,False,False
 SEL-NNML (CMA-ES),7,False,False
 SEL-NNML (CMA-ES),8,True,True
 SEL-NNML (CMA-ES),9,False,False
-SEL-NNML (CMA-ES),10,True,True
+SEL-NNML (CMA-ES),10,False,True
 SEL-NNML (CMA-ES),11,False,False
 SEL-NNML (CMA-ES),12,False,False
-SEL-NNML (CMA-ES),13,True,False
+SEL-NNML (CMA-ES),13,False,False
 SEL-NNML (CMA-ES),14,False,False
 SEL-NNML (CMA-ES),15,False,False
 SEL-NNML (CMA-ES),16,False,False
