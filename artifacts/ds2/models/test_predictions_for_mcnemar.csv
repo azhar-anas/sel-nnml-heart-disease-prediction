@@ -1,0 +1,781 @@
+Model,Instance_Index,Prediction,True_Label
+Logistic Regression (Default),0,False,False
+Logistic Regression (Default),1,True,True
+Logistic Regression (Default),2,False,False
+Logistic Regression (Default),3,True,True
+Logistic Regression (Default),4,False,False
+Logistic Regression (Default),5,False,False
+Logistic Regression (Default),6,False,False
+Logistic Regression (Default),7,True,False
+Logistic Regression (Default),8,True,True
+Logistic Regression (Default),9,False,False
+Logistic Regression (Default),10,False,True
+Logistic Regression (Default),11,False,False
+Logistic Regression (Default),12,False,False
+Logistic Regression (Default),13,False,False
+Logistic Regression (Default),14,False,False
+Logistic Regression (Default),15,False,False
+Logistic Regression (Default),16,False,False
+Logistic Regression (Default),17,True,False
+Logistic Regression (Default),18,False,True
+Logistic Regression (Default),19,False,False
+Logistic Regression (Default),20,True,True
+Logistic Regression (Default),21,True,True
+Logistic Regression (Default),22,True,True
+Logistic Regression (Default),23,False,False
+Logistic Regression (Default),24,True,True
+Logistic Regression (Default),25,False,False
+Logistic Regression (Default),26,True,True
+Logistic Regression (Default),27,True,True
+Logistic Regression (Default),28,False,False
+Logistic Regression (Default),29,False,False
+Logistic Regression (Default),30,False,False
+Logistic Regression (Default),31,False,False
+Logistic Regression (Default),32,True,True
+Logistic Regression (Default),33,False,False
+Logistic Regression (Default),34,False,False
+Logistic Regression (Default),35,False,False
+Logistic Regression (Default),36,True,True
+Logistic Regression (Default),37,False,False
+Logistic Regression (Default),38,True,True
+Logistic Regression (Default),39,True,True
+Logistic Regression (Default),40,False,False
+Logistic Regression (Default),41,True,True
+Logistic Regression (Default),42,True,True
+Logistic Regression (Default),43,True,False
+Logistic Regression (Default),44,False,False
+Logistic Regression (Default),45,True,True
+Logistic Regression (Default),46,False,False
+Logistic Regression (Default),47,True,True
+Logistic Regression (Default),48,False,False
+Logistic Regression (Default),49,False,False
+Logistic Regression (Default),50,False,False
+Logistic Regression (Default),51,True,True
+Logistic Regression (Default),52,False,True
+Logistic Regression (Default),53,False,False
+Logistic Regression (Default),54,True,True
+Logistic Regression (Default),55,True,True
+Logistic Regression (Default),56,False,False
+Logistic Regression (Default),57,False,False
+Logistic Regression (Default),58,True,True
+Logistic Regression (Default),59,True,False
+Decision Tree (Default),0,False,False
+Decision Tree (Default),1,True,True
+Decision Tree (Default),2,False,False
+Decision Tree (Default),3,True,True
+Decision Tree (Default),4,False,False
+Decision Tree (Default),5,False,False
+Decision Tree (Default),6,True,False
+Decision Tree (Default),7,False,False
+Decision Tree (Default),8,True,True
+Decision Tree (Default),9,True,False
+Decision Tree (Default),10,True,True
+Decision Tree (Default),11,False,False
+Decision Tree (Default),12,False,False
+Decision Tree (Default),13,True,False
+Decision Tree (Default),14,False,False
+Decision Tree (Default),15,False,False
+Decision Tree (Default),16,False,False
+Decision Tree (Default),17,True,False
+Decision Tree (Default),18,True,True
+Decision Tree (Default),19,False,False
+Decision Tree (Default),20,True,True
+Decision Tree (Default),21,True,True
+Decision Tree (Default),22,True,True
+Decision Tree (Default),23,False,False
+Decision Tree (Default),24,True,True
+Decision Tree (Default),25,False,False
+Decision Tree (Default),26,True,True
+Decision Tree (Default),27,True,True
+Decision Tree (Default),28,False,False
+Decision Tree (Default),29,False,False
+Decision Tree (Default),30,False,False
+Decision Tree (Default),31,False,False
+Decision Tree (Default),32,True,True
+Decision Tree (Default),33,True,False
+Decision Tree (Default),34,True,False
+Decision Tree (Default),35,False,False
+Decision Tree (Default),36,True,True
+Decision Tree (Default),37,False,False
+Decision Tree (Default),38,True,True
+Decision Tree (Default),39,True,True
+Decision Tree (Default),40,False,False
+Decision Tree (Default),41,True,True
+Decision Tree (Default),42,True,True
+Decision Tree (Default),43,True,False
+Decision Tree (Default),44,False,False
+Decision Tree (Default),45,False,True
+Decision Tree (Default),46,True,False
+Decision Tree (Default),47,True,True
+Decision Tree (Default),48,False,False
+Decision Tree (Default),49,False,False
+Decision Tree (Default),50,False,False
+Decision Tree (Default),51,True,True
+Decision Tree (Default),52,True,True
+Decision Tree (Default),53,False,False
+Decision Tree (Default),54,True,True
+Decision Tree (Default),55,False,True
+Decision Tree (Default),56,False,False
+Decision Tree (Default),57,False,False
+Decision Tree (Default),58,True,True
+Decision Tree (Default),59,True,False
+Random Forest (Default),0,False,False
+Random Forest (Default),1,True,True
+Random Forest (Default),2,False,False
+Random Forest (Default),3,True,True
+Random Forest (Default),4,False,False
+Random Forest (Default),5,False,False
+Random Forest (Default),6,False,False
+Random Forest (Default),7,True,False
+Random Forest (Default),8,True,True
+Random Forest (Default),9,False,False
+Random Forest (Default),10,False,True
+Random Forest (Default),11,False,False
+Random Forest (Default),12,False,False
+Random Forest (Default),13,True,False
+Random Forest (Default),14,False,False
+Random Forest (Default),15,False,False
+Random Forest (Default),16,False,False
+Random Forest (Default),17,True,False
+Random Forest (Default),18,True,True
+Random Forest (Default),19,False,False
+Random Forest (Default),20,True,True
+Random Forest (Default),21,True,True
+Random Forest (Default),22,True,True
+Random Forest (Default),23,False,False
+Random Forest (Default),24,True,True
+Random Forest (Default),25,False,False
+Random Forest (Default),26,True,True
+Random Forest (Default),27,True,True
+Random Forest (Default),28,False,False
+Random Forest (Default),29,False,False
+Random Forest (Default),30,False,False
+Random Forest (Default),31,False,False
+Random Forest (Default),32,True,True
+Random Forest (Default),33,False,False
+Random Forest (Default),34,False,False
+Random Forest (Default),35,False,False
+Random Forest (Default),36,True,True
+Random Forest (Default),37,False,False
+Random Forest (Default),38,True,True
+Random Forest (Default),39,True,True
+Random Forest (Default),40,False,False
+Random Forest (Default),41,True,True
+Random Forest (Default),42,True,True
+Random Forest (Default),43,True,False
+Random Forest (Default),44,False,False
+Random Forest (Default),45,False,True
+Random Forest (Default),46,False,False
+Random Forest (Default),47,True,True
+Random Forest (Default),48,False,False
+Random Forest (Default),49,False,False
+Random Forest (Default),50,False,False
+Random Forest (Default),51,True,True
+Random Forest (Default),52,False,True
+Random Forest (Default),53,False,False
+Random Forest (Default),54,True,True
+Random Forest (Default),55,True,True
+Random Forest (Default),56,False,False
+Random Forest (Default),57,False,False
+Random Forest (Default),58,True,True
+Random Forest (Default),59,True,False
+K-Nearest Neighbors (Default),0,False,False
+K-Nearest Neighbors (Default),1,True,True
+K-Nearest Neighbors (Default),2,False,False
+K-Nearest Neighbors (Default),3,True,True
+K-Nearest Neighbors (Default),4,False,False
+K-Nearest Neighbors (Default),5,False,False
+K-Nearest Neighbors (Default),6,False,False
+K-Nearest Neighbors (Default),7,True,False
+K-Nearest Neighbors (Default),8,True,True
+K-Nearest Neighbors (Default),9,False,False
+K-Nearest Neighbors (Default),10,False,True
+K-Nearest Neighbors (Default),11,False,False
+K-Nearest Neighbors (Default),12,False,False
+K-Nearest Neighbors (Default),13,True,False
+K-Nearest Neighbors (Default),14,False,False
+K-Nearest Neighbors (Default),15,False,False
+K-Nearest Neighbors (Default),16,False,False
+K-Nearest Neighbors (Default),17,False,False
+K-Nearest Neighbors (Default),18,True,True
+K-Nearest Neighbors (Default),19,False,False
+K-Nearest Neighbors (Default),20,True,True
+K-Nearest Neighbors (Default),21,True,True
+K-Nearest Neighbors (Default),22,True,True
+K-Nearest Neighbors (Default),23,False,False
+K-Nearest Neighbors (Default),24,True,True
+K-Nearest Neighbors (Default),25,False,False
+K-Nearest Neighbors (Default),26,True,True
+K-Nearest Neighbors (Default),27,True,True
+K-Nearest Neighbors (Default),28,False,False
+K-Nearest Neighbors (Default),29,False,False
+K-Nearest Neighbors (Default),30,False,False
+K-Nearest Neighbors (Default),31,False,False
+K-Nearest Neighbors (Default),32,True,True
+K-Nearest Neighbors (Default),33,False,False
+K-Nearest Neighbors (Default),34,False,False
+K-Nearest Neighbors (Default),35,False,False
+K-Nearest Neighbors (Default),36,True,True
+K-Nearest Neighbors (Default),37,False,False
+K-Nearest Neighbors (Default),38,True,True
+K-Nearest Neighbors (Default),39,True,True
+K-Nearest Neighbors (Default),40,False,False
+K-Nearest Neighbors (Default),41,True,True
+K-Nearest Neighbors (Default),42,True,True
+K-Nearest Neighbors (Default),43,True,False
+K-Nearest Neighbors (Default),44,False,False
+K-Nearest Neighbors (Default),45,True,True
+K-Nearest Neighbors (Default),46,False,False
+K-Nearest Neighbors (Default),47,False,True
+K-Nearest Neighbors (Default),48,False,False
+K-Nearest Neighbors (Default),49,False,False
+K-Nearest Neighbors (Default),50,False,False
+K-Nearest Neighbors (Default),51,True,True
+K-Nearest Neighbors (Default),52,False,True
+K-Nearest Neighbors (Default),53,True,False
+K-Nearest Neighbors (Default),54,True,True
+K-Nearest Neighbors (Default),55,True,True
+K-Nearest Neighbors (Default),56,False,False
+K-Nearest Neighbors (Default),57,False,False
+K-Nearest Neighbors (Default),58,True,True
+K-Nearest Neighbors (Default),59,False,False
+Support Vector Machine (Default),0,False,False
+Support Vector Machine (Default),1,True,True
+Support Vector Machine (Default),2,False,False
+Support Vector Machine (Default),3,True,True
+Support Vector Machine (Default),4,False,False
+Support Vector Machine (Default),5,False,False
+Support Vector Machine (Default),6,False,False
+Support Vector Machine (Default),7,True,False
+Support Vector Machine (Default),8,True,True
+Support Vector Machine (Default),9,False,False
+Support Vector Machine (Default),10,False,True
+Support Vector Machine (Default),11,False,False
+Support Vector Machine (Default),12,False,False
+Support Vector Machine (Default),13,True,False
+Support Vector Machine (Default),14,False,False
+Support Vector Machine (Default),15,False,False
+Support Vector Machine (Default),16,False,False
+Support Vector Machine (Default),17,True,False
+Support Vector Machine (Default),18,True,True
+Support Vector Machine (Default),19,False,False
+Support Vector Machine (Default),20,True,True
+Support Vector Machine (Default),21,True,True
+Support Vector Machine (Default),22,True,True
+Support Vector Machine (Default),23,False,False
+Support Vector Machine (Default),24,True,True
+Support Vector Machine (Default),25,False,False
+Support Vector Machine (Default),26,True,True
+Support Vector Machine (Default),27,True,True
+Support Vector Machine (Default),28,False,False
+Support Vector Machine (Default),29,False,False
+Support Vector Machine (Default),30,False,False
+Support Vector Machine (Default),31,False,False
+Support Vector Machine (Default),32,True,True
+Support Vector Machine (Default),33,False,False
+Support Vector Machine (Default),34,False,False
+Support Vector Machine (Default),35,False,False
+Support Vector Machine (Default),36,True,True
+Support Vector Machine (Default),37,False,False
+Support Vector Machine (Default),38,True,True
+Support Vector Machine (Default),39,True,True
+Support Vector Machine (Default),40,False,False
+Support Vector Machine (Default),41,True,True
+Support Vector Machine (Default),42,True,True
+Support Vector Machine (Default),43,True,False
+Support Vector Machine (Default),44,False,False
+Support Vector Machine (Default),45,True,True
+Support Vector Machine (Default),46,False,False
+Support Vector Machine (Default),47,True,True
+Support Vector Machine (Default),48,False,False
+Support Vector Machine (Default),49,False,False
+Support Vector Machine (Default),50,False,False
+Support Vector Machine (Default),51,True,True
+Support Vector Machine (Default),52,False,True
+Support Vector Machine (Default),53,False,False
+Support Vector Machine (Default),54,True,True
+Support Vector Machine (Default),55,True,True
+Support Vector Machine (Default),56,False,False
+Support Vector Machine (Default),57,False,False
+Support Vector Machine (Default),58,True,True
+Support Vector Machine (Default),59,False,False
+AdaBoost (Default),0,False,False
+AdaBoost (Default),1,True,True
+AdaBoost (Default),2,False,False
+AdaBoost (Default),3,True,True
+AdaBoost (Default),4,False,False
+AdaBoost (Default),5,True,False
+AdaBoost (Default),6,False,False
+AdaBoost (Default),7,True,False
+AdaBoost (Default),8,True,True
+AdaBoost (Default),9,False,False
+AdaBoost (Default),10,False,True
+AdaBoost (Default),11,False,False
+AdaBoost (Default),12,False,False
+AdaBoost (Default),13,True,False
+AdaBoost (Default),14,False,False
+AdaBoost (Default),15,False,False
+AdaBoost (Default),16,False,False
+AdaBoost (Default),17,False,False
+AdaBoost (Default),18,True,True
+AdaBoost (Default),19,False,False
+AdaBoost (Default),20,True,True
+AdaBoost (Default),21,True,True
+AdaBoost (Default),22,True,True
+AdaBoost (Default),23,False,False
+AdaBoost (Default),24,True,True
+AdaBoost (Default),25,False,False
+AdaBoost (Default),26,True,True
+AdaBoost (Default),27,True,True
+AdaBoost (Default),28,False,False
+AdaBoost (Default),29,False,False
+AdaBoost (Default),30,False,False
+AdaBoost (Default),31,False,False
+AdaBoost (Default),32,True,True
+AdaBoost (Default),33,False,False
+AdaBoost (Default),34,False,False
+AdaBoost (Default),35,False,False
+AdaBoost (Default),36,True,True
+AdaBoost (Default),37,False,False
+AdaBoost (Default),38,True,True
+AdaBoost (Default),39,True,True
+AdaBoost (Default),40,False,False
+AdaBoost (Default),41,True,True
+AdaBoost (Default),42,True,True
+AdaBoost (Default),43,False,False
+AdaBoost (Default),44,False,False
+AdaBoost (Default),45,True,True
+AdaBoost (Default),46,False,False
+AdaBoost (Default),47,True,True
+AdaBoost (Default),48,True,False
+AdaBoost (Default),49,False,False
+AdaBoost (Default),50,False,False
+AdaBoost (Default),51,True,True
+AdaBoost (Default),52,True,True
+AdaBoost (Default),53,False,False
+AdaBoost (Default),54,True,True
+AdaBoost (Default),55,False,True
+AdaBoost (Default),56,False,False
+AdaBoost (Default),57,False,False
+AdaBoost (Default),58,True,True
+AdaBoost (Default),59,True,False
+Gradient Boosting (Default),0,False,False
+Gradient Boosting (Default),1,True,True
+Gradient Boosting (Default),2,False,False
+Gradient Boosting (Default),3,True,True
+Gradient Boosting (Default),4,False,False
+Gradient Boosting (Default),5,False,False
+Gradient Boosting (Default),6,True,False
+Gradient Boosting (Default),7,True,False
+Gradient Boosting (Default),8,True,True
+Gradient Boosting (Default),9,False,False
+Gradient Boosting (Default),10,False,True
+Gradient Boosting (Default),11,False,False
+Gradient Boosting (Default),12,False,False
+Gradient Boosting (Default),13,True,False
+Gradient Boosting (Default),14,False,False
+Gradient Boosting (Default),15,False,False
+Gradient Boosting (Default),16,False,False
+Gradient Boosting (Default),17,False,False
+Gradient Boosting (Default),18,True,True
+Gradient Boosting (Default),19,False,False
+Gradient Boosting (Default),20,True,True
+Gradient Boosting (Default),21,True,True
+Gradient Boosting (Default),22,True,True
+Gradient Boosting (Default),23,False,False
+Gradient Boosting (Default),24,True,True
+Gradient Boosting (Default),25,False,False
+Gradient Boosting (Default),26,True,True
+Gradient Boosting (Default),27,True,True
+Gradient Boosting (Default),28,False,False
+Gradient Boosting (Default),29,False,False
+Gradient Boosting (Default),30,False,False
+Gradient Boosting (Default),31,False,False
+Gradient Boosting (Default),32,True,True
+Gradient Boosting (Default),33,False,False
+Gradient Boosting (Default),34,False,False
+Gradient Boosting (Default),35,False,False
+Gradient Boosting (Default),36,True,True
+Gradient Boosting (Default),37,False,False
+Gradient Boosting (Default),38,True,True
+Gradient Boosting (Default),39,True,True
+Gradient Boosting (Default),40,False,False
+Gradient Boosting (Default),41,True,True
+Gradient Boosting (Default),42,True,True
+Gradient Boosting (Default),43,True,False
+Gradient Boosting (Default),44,False,False
+Gradient Boosting (Default),45,False,True
+Gradient Boosting (Default),46,False,False
+Gradient Boosting (Default),47,False,True
+Gradient Boosting (Default),48,True,False
+Gradient Boosting (Default),49,False,False
+Gradient Boosting (Default),50,False,False
+Gradient Boosting (Default),51,True,True
+Gradient Boosting (Default),52,False,True
+Gradient Boosting (Default),53,False,False
+Gradient Boosting (Default),54,True,True
+Gradient Boosting (Default),55,True,True
+Gradient Boosting (Default),56,False,False
+Gradient Boosting (Default),57,False,False
+Gradient Boosting (Default),58,True,True
+Gradient Boosting (Default),59,True,False
+Stacking + Linear Regression,0,False,False
+Stacking + Linear Regression,1,True,True
+Stacking + Linear Regression,2,False,False
+Stacking + Linear Regression,3,True,True
+Stacking + Linear Regression,4,False,False
+Stacking + Linear Regression,5,False,False
+Stacking + Linear Regression,6,False,False
+Stacking + Linear Regression,7,True,False
+Stacking + Linear Regression,8,True,True
+Stacking + Linear Regression,9,False,False
+Stacking + Linear Regression,10,False,True
+Stacking + Linear Regression,11,False,False
+Stacking + Linear Regression,12,False,False
+Stacking + Linear Regression,13,True,False
+Stacking + Linear Regression,14,False,False
+Stacking + Linear Regression,15,False,False
+Stacking + Linear Regression,16,False,False
+Stacking + Linear Regression,17,True,False
+Stacking + Linear Regression,18,True,True
+Stacking + Linear Regression,19,False,False
+Stacking + Linear Regression,20,True,True
+Stacking + Linear Regression,21,True,True
+Stacking + Linear Regression,22,True,True
+Stacking + Linear Regression,23,False,False
+Stacking + Linear Regression,24,True,True
+Stacking + Linear Regression,25,False,False
+Stacking + Linear Regression,26,True,True
+Stacking + Linear Regression,27,True,True
+Stacking + Linear Regression,28,False,False
+Stacking + Linear Regression,29,False,False
+Stacking + Linear Regression,30,False,False
+Stacking + Linear Regression,31,False,False
+Stacking + Linear Regression,32,True,True
+Stacking + Linear Regression,33,False,False
+Stacking + Linear Regression,34,False,False
+Stacking + Linear Regression,35,False,False
+Stacking + Linear Regression,36,True,True
+Stacking + Linear Regression,37,False,False
+Stacking + Linear Regression,38,True,True
+Stacking + Linear Regression,39,True,True
+Stacking + Linear Regression,40,False,False
+Stacking + Linear Regression,41,True,True
+Stacking + Linear Regression,42,True,True
+Stacking + Linear Regression,43,True,False
+Stacking + Linear Regression,44,False,False
+Stacking + Linear Regression,45,True,True
+Stacking + Linear Regression,46,False,False
+Stacking + Linear Regression,47,True,True
+Stacking + Linear Regression,48,False,False
+Stacking + Linear Regression,49,False,False
+Stacking + Linear Regression,50,False,False
+Stacking + Linear Regression,51,True,True
+Stacking + Linear Regression,52,False,True
+Stacking + Linear Regression,53,False,False
+Stacking + Linear Regression,54,True,True
+Stacking + Linear Regression,55,True,True
+Stacking + Linear Regression,56,False,False
+Stacking + Linear Regression,57,False,False
+Stacking + Linear Regression,58,True,True
+Stacking + Linear Regression,59,True,False
+Stacking + Default MLP,0,False,False
+Stacking + Default MLP,1,True,True
+Stacking + Default MLP,2,False,False
+Stacking + Default MLP,3,True,True
+Stacking + Default MLP,4,False,False
+Stacking + Default MLP,5,False,False
+Stacking + Default MLP,6,False,False
+Stacking + Default MLP,7,True,False
+Stacking + Default MLP,8,True,True
+Stacking + Default MLP,9,False,False
+Stacking + Default MLP,10,False,True
+Stacking + Default MLP,11,False,False
+Stacking + Default MLP,12,False,False
+Stacking + Default MLP,13,True,False
+Stacking + Default MLP,14,False,False
+Stacking + Default MLP,15,False,False
+Stacking + Default MLP,16,False,False
+Stacking + Default MLP,17,True,False
+Stacking + Default MLP,18,True,True
+Stacking + Default MLP,19,False,False
+Stacking + Default MLP,20,True,True
+Stacking + Default MLP,21,True,True
+Stacking + Default MLP,22,True,True
+Stacking + Default MLP,23,False,False
+Stacking + Default MLP,24,True,True
+Stacking + Default MLP,25,False,False
+Stacking + Default MLP,26,True,True
+Stacking + Default MLP,27,True,True
+Stacking + Default MLP,28,False,False
+Stacking + Default MLP,29,False,False
+Stacking + Default MLP,30,False,False
+Stacking + Default MLP,31,False,False
+Stacking + Default MLP,32,True,True
+Stacking + Default MLP,33,False,False
+Stacking + Default MLP,34,False,False
+Stacking + Default MLP,35,False,False
+Stacking + Default MLP,36,True,True
+Stacking + Default MLP,37,False,False
+Stacking + Default MLP,38,True,True
+Stacking + Default MLP,39,True,True
+Stacking + Default MLP,40,False,False
+Stacking + Default MLP,41,True,True
+Stacking + Default MLP,42,True,True
+Stacking + Default MLP,43,True,False
+Stacking + Default MLP,44,False,False
+Stacking + Default MLP,45,True,True
+Stacking + Default MLP,46,False,False
+Stacking + Default MLP,47,True,True
+Stacking + Default MLP,48,False,False
+Stacking + Default MLP,49,False,False
+Stacking + Default MLP,50,False,False
+Stacking + Default MLP,51,True,True
+Stacking + Default MLP,52,False,True
+Stacking + Default MLP,53,False,False
+Stacking + Default MLP,54,True,True
+Stacking + Default MLP,55,True,True
+Stacking + Default MLP,56,False,False
+Stacking + Default MLP,57,False,False
+Stacking + Default MLP,58,True,True
+Stacking + Default MLP,59,True,False
+SEL-NNML (TPE),0,False,False
+SEL-NNML (TPE),1,False,True
+SEL-NNML (TPE),2,False,False
+SEL-NNML (TPE),3,True,True
+SEL-NNML (TPE),4,False,False
+SEL-NNML (TPE),5,False,False
+SEL-NNML (TPE),6,False,False
+SEL-NNML (TPE),7,True,False
+SEL-NNML (TPE),8,True,True
+SEL-NNML (TPE),9,False,False
+SEL-NNML (TPE),10,False,True
+SEL-NNML (TPE),11,False,False
+SEL-NNML (TPE),12,False,False
+SEL-NNML (TPE),13,False,False
+SEL-NNML (TPE),14,False,False
+SEL-NNML (TPE),15,False,False
+SEL-NNML (TPE),16,False,False
+SEL-NNML (TPE),17,True,False
+SEL-NNML (TPE),18,True,True
+SEL-NNML (TPE),19,False,False
+SEL-NNML (TPE),20,True,True
+SEL-NNML (TPE),21,True,True
+SEL-NNML (TPE),22,True,True
+SEL-NNML (TPE),23,False,False
+SEL-NNML (TPE),24,True,True
+SEL-NNML (TPE),25,False,False
+SEL-NNML (TPE),26,True,True
+SEL-NNML (TPE),27,True,True
+SEL-NNML (TPE),28,False,False
+SEL-NNML (TPE),29,False,False
+SEL-NNML (TPE),30,False,False
+SEL-NNML (TPE),31,False,False
+SEL-NNML (TPE),32,True,True
+SEL-NNML (TPE),33,False,False
+SEL-NNML (TPE),34,False,False
+SEL-NNML (TPE),35,False,False
+SEL-NNML (TPE),36,True,True
+SEL-NNML (TPE),37,False,False
+SEL-NNML (TPE),38,True,True
+SEL-NNML (TPE),39,True,True
+SEL-NNML (TPE),40,False,False
+SEL-NNML (TPE),41,True,True
+SEL-NNML (TPE),42,True,True
+SEL-NNML (TPE),43,False,False
+SEL-NNML (TPE),44,False,False
+SEL-NNML (TPE),45,True,True
+SEL-NNML (TPE),46,False,False
+SEL-NNML (TPE),47,True,True
+SEL-NNML (TPE),48,False,False
+SEL-NNML (TPE),49,False,False
+SEL-NNML (TPE),50,False,False
+SEL-NNML (TPE),51,True,True
+SEL-NNML (TPE),52,False,True
+SEL-NNML (TPE),53,False,False
+SEL-NNML (TPE),54,True,True
+SEL-NNML (TPE),55,True,True
+SEL-NNML (TPE),56,False,False
+SEL-NNML (TPE),57,False,False
+SEL-NNML (TPE),58,True,True
+SEL-NNML (TPE),59,False,False
+SEL-NNML (GP),0,False,False
+SEL-NNML (GP),1,False,True
+SEL-NNML (GP),2,False,False
+SEL-NNML (GP),3,True,True
+SEL-NNML (GP),4,False,False
+SEL-NNML (GP),5,False,False
+SEL-NNML (GP),6,False,False
+SEL-NNML (GP),7,True,False
+SEL-NNML (GP),8,True,True
+SEL-NNML (GP),9,False,False
+SEL-NNML (GP),10,False,True
+SEL-NNML (GP),11,False,False
+SEL-NNML (GP),12,False,False
+SEL-NNML (GP),13,False,False
+SEL-NNML (GP),14,False,False
+SEL-NNML (GP),15,False,False
+SEL-NNML (GP),16,False,False
+SEL-NNML (GP),17,True,False
+SEL-NNML (GP),18,True,True
+SEL-NNML (GP),19,False,False
+SEL-NNML (GP),20,True,True
+SEL-NNML (GP),21,True,True
+SEL-NNML (GP),22,True,True
+SEL-NNML (GP),23,False,False
+SEL-NNML (GP),24,True,True
+SEL-NNML (GP),25,False,False
+SEL-NNML (GP),26,True,True
+SEL-NNML (GP),27,True,True
+SEL-NNML (GP),28,False,False
+SEL-NNML (GP),29,False,False
+SEL-NNML (GP),30,False,False
+SEL-NNML (GP),31,False,False
+SEL-NNML (GP),32,True,True
+SEL-NNML (GP),33,False,False
+SEL-NNML (GP),34,False,False
+SEL-NNML (GP),35,False,False
+SEL-NNML (GP),36,True,True
+SEL-NNML (GP),37,False,False
+SEL-NNML (GP),38,True,True
+SEL-NNML (GP),39,True,True
+SEL-NNML (GP),40,False,False
+SEL-NNML (GP),41,True,True
+SEL-NNML (GP),42,True,True
+SEL-NNML (GP),43,False,False
+SEL-NNML (GP),44,False,False
+SEL-NNML (GP),45,True,True
+SEL-NNML (GP),46,False,False
+SEL-NNML (GP),47,True,True
+SEL-NNML (GP),48,False,False
+SEL-NNML (GP),49,False,False
+SEL-NNML (GP),50,False,False
+SEL-NNML (GP),51,True,True
+SEL-NNML (GP),52,False,True
+SEL-NNML (GP),53,False,False
+SEL-NNML (GP),54,True,True
+SEL-NNML (GP),55,True,True
+SEL-NNML (GP),56,False,False
+SEL-NNML (GP),57,False,False
+SEL-NNML (GP),58,True,True
+SEL-NNML (GP),59,False,False
+SEL-NNML (CMA-ES),0,False,False
+SEL-NNML (CMA-ES),1,True,True
+SEL-NNML (CMA-ES),2,False,False
+SEL-NNML (CMA-ES),3,True,True
+SEL-NNML (CMA-ES),4,False,False
+SEL-NNML (CMA-ES),5,False,False
+SEL-NNML (CMA-ES),6,False,False
+SEL-NNML (CMA-ES),7,False,False
+SEL-NNML (CMA-ES),8,True,True
+SEL-NNML (CMA-ES),9,False,False
+SEL-NNML (CMA-ES),10,False,True
+SEL-NNML (CMA-ES),11,False,False
+SEL-NNML (CMA-ES),12,False,False
+SEL-NNML (CMA-ES),13,False,False
+SEL-NNML (CMA-ES),14,False,False
+SEL-NNML (CMA-ES),15,False,False
+SEL-NNML (CMA-ES),16,False,False
+SEL-NNML (CMA-ES),17,True,False
+SEL-NNML (CMA-ES),18,True,True
+SEL-NNML (CMA-ES),19,False,False
+SEL-NNML (CMA-ES),20,True,True
+SEL-NNML (CMA-ES),21,True,True
+SEL-NNML (CMA-ES),22,True,True
+SEL-NNML (CMA-ES),23,False,False
+SEL-NNML (CMA-ES),24,True,True
+SEL-NNML (CMA-ES),25,False,False
+SEL-NNML (CMA-ES),26,True,True
+SEL-NNML (CMA-ES),27,True,True
+SEL-NNML (CMA-ES),28,False,False
+SEL-NNML (CMA-ES),29,False,False
+SEL-NNML (CMA-ES),30,False,False
+SEL-NNML (CMA-ES),31,False,False
+SEL-NNML (CMA-ES),32,True,True
+SEL-NNML (CMA-ES),33,False,False
+SEL-NNML (CMA-ES),34,False,False
+SEL-NNML (CMA-ES),35,False,False
+SEL-NNML (CMA-ES),36,True,True
+SEL-NNML (CMA-ES),37,False,False
+SEL-NNML (CMA-ES),38,True,True
+SEL-NNML (CMA-ES),39,True,True
+SEL-NNML (CMA-ES),40,False,False
+SEL-NNML (CMA-ES),41,True,True
+SEL-NNML (CMA-ES),42,True,True
+SEL-NNML (CMA-ES),43,True,False
+SEL-NNML (CMA-ES),44,False,False
+SEL-NNML (CMA-ES),45,True,True
+SEL-NNML (CMA-ES),46,False,False
+SEL-NNML (CMA-ES),47,True,True
+SEL-NNML (CMA-ES),48,False,False
+SEL-NNML (CMA-ES),49,False,False
+SEL-NNML (CMA-ES),50,False,False
+SEL-NNML (CMA-ES),51,True,True
+SEL-NNML (CMA-ES),52,False,True
+SEL-NNML (CMA-ES),53,False,False
+SEL-NNML (CMA-ES),54,True,True
+SEL-NNML (CMA-ES),55,True,True
+SEL-NNML (CMA-ES),56,False,False
+SEL-NNML (CMA-ES),57,False,False
+SEL-NNML (CMA-ES),58,True,True
+SEL-NNML (CMA-ES),59,False,False
+SEL-NNML (QMC),0,False,False
+SEL-NNML (QMC),1,True,True
+SEL-NNML (QMC),2,False,False
+SEL-NNML (QMC),3,True,True
+SEL-NNML (QMC),4,False,False
+SEL-NNML (QMC),5,False,False
+SEL-NNML (QMC),6,False,False
+SEL-NNML (QMC),7,True,False
+SEL-NNML (QMC),8,True,True
+SEL-NNML (QMC),9,False,False
+SEL-NNML (QMC),10,True,True
+SEL-NNML (QMC),11,False,False
+SEL-NNML (QMC),12,False,False
+SEL-NNML (QMC),13,False,False
+SEL-NNML (QMC),14,False,False
+SEL-NNML (QMC),15,False,False
+SEL-NNML (QMC),16,False,False
+SEL-NNML (QMC),17,True,False
+SEL-NNML (QMC),18,True,True
+SEL-NNML (QMC),19,False,False
+SEL-NNML (QMC),20,True,True
+SEL-NNML (QMC),21,True,True
+SEL-NNML (QMC),22,True,True
+SEL-NNML (QMC),23,False,False
+SEL-NNML (QMC),24,True,True
+SEL-NNML (QMC),25,False,False
+SEL-NNML (QMC),26,True,True
+SEL-NNML (QMC),27,True,True
+SEL-NNML (QMC),28,False,False
+SEL-NNML (QMC),29,False,False
+SEL-NNML (QMC),30,False,False
+SEL-NNML (QMC),31,False,False
+SEL-NNML (QMC),32,True,True
+SEL-NNML (QMC),33,False,False
+SEL-NNML (QMC),34,False,False
+SEL-NNML (QMC),35,False,False
+SEL-NNML (QMC),36,True,True
+SEL-NNML (QMC),37,False,False
+SEL-NNML (QMC),38,True,True
+SEL-NNML (QMC),39,True,True
+SEL-NNML (QMC),40,False,False
+SEL-NNML (QMC),41,True,True
+SEL-NNML (QMC),42,True,True
+SEL-NNML (QMC),43,True,False
+SEL-NNML (QMC),44,False,False
+SEL-NNML (QMC),45,True,True
+SEL-NNML (QMC),46,False,False
+SEL-NNML (QMC),47,True,True
+SEL-NNML (QMC),48,False,False
+SEL-NNML (QMC),49,False,False
+SEL-NNML (QMC),50,False,False
+SEL-NNML (QMC),51,True,True
+SEL-NNML (QMC),52,False,True
+SEL-NNML (QMC),53,False,False
+SEL-NNML (QMC),54,True,True
+SEL-NNML (QMC),55,True,True
+SEL-NNML (QMC),56,False,False
+SEL-NNML (QMC),57,False,False
+SEL-NNML (QMC),58,True,True
+SEL-NNML (QMC),59,False,False
