@@ -212,4 +212,4 @@ def meta_model_tuning(models, x_train, y_train, x_test, y_test, sampler='TPESamp
     print(f'Best Hyperparameters for Meta Model (MLP) using {sampler}: {mlp_params}')
     print(f'Best {metric_compare} on Test Set: {study.best_value:.4f}, at trial: {study.best_trial.number}')
 
-    return best_stacking_model
+    return best_stacking_model, study
